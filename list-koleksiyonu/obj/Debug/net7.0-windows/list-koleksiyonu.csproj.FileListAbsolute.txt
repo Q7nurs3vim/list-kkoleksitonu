@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\bin\Debug\net7.0-windows\list-koleksiyonu.exe
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\bin\Debug\net7.0-windows\list-koleksiyonu.deps.json
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\bin\Debug\net7.0-windows\list-koleksiyonu.runtimeconfig.json
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\bin\Debug\net7.0-windows\list-koleksiyonu.dll
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\bin\Debug\net7.0-windows\list-koleksiyonu.pdb
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\list_koleksiyonu.Form1.resources
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\list-koleksiyonu.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\list-koleksiyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\list-koleksiyonu.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\list-koleksiyonu.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\list-koleksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\list-koleksiyonu.dll
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\refint\list-koleksiyonu.dll
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\list-koleksiyonu.pdb
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\list-koleksiyonu.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\list-koleksiyonu\list-koleksiyonu\obj\Debug\net7.0-windows\ref\list-koleksiyonu.dll
